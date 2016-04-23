@@ -8,6 +8,14 @@
         "description": ""
     },
 
+    "current_page_bookmarked_multiple_times": {
+        "message": "There are multiple bookmarks for this page, so it is unclear which to update. Please update the bookmark manually this time.",
+        "description": ""
+    },
+    "current_page_not_bookmarked": {
+        "message": "Current page has no bookmark, so there is nothing to update.",
+        "description": ""
+    },
     "update_current_bookmark": {
         "message": "Update current bookmark with this URL",
         "description": ""

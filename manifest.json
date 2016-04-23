@@ -22,5 +22,6 @@
         "declarativeContent"
     ],
     "optional_permissions": [
+        "bookmarks"
     ]
 }
