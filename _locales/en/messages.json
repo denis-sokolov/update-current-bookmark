@@ -1,0 +1,15 @@
+{
+    "extension_name": {
+        "message": "Update current bookmark",
+        "description": ""
+    },
+    "extension_description": {
+        "message": "Right click on a link to update the current bookmark",
+        "description": ""
+    },
+
+    "update_current_bookmark": {
+        "message": "Update current bookmark with this URL",
+        "description": ""
+    }
+}
