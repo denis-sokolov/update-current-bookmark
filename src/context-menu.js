@@ -5,7 +5,8 @@ chrome.contextMenus.create({
 });
 
 var say = function (id) {
-  alert(chrome.i18n.getMessage(id));
+  // No more alert in Manifest v3.
+  // alert(chrome.i18n.getMessage(id));
 };
 
 var findBookmarkId = function (currentUrl, callback) {
